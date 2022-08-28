@@ -14,4 +14,5 @@ I used minimal tab completion to help build muscle memory and reinforce memory r
 * Manuever using Linux Terminal and CLI (Command Line Interface)
 * Set up Github account and begin learning Git
 * Use Git and terminal to move files into repository on Github
+* Publish web projects directly from a Github repository for live-viewing
 * Learn Markdown for README.md
