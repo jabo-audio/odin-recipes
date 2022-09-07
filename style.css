@@ -1,7 +1,8 @@
 h2 {
   color: whitesmoke;
   background-color: blue;
-  font-family
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
 }
 
 .beef {
@@ -17,4 +18,11 @@ h2 {
 .white {
   color:whitesmoke;
   background-color:green;
+}
+
+/*Images */
+
+img {
+  height: auto;
+  width: 500px;
 }
